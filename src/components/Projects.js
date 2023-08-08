@@ -1,7 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/ebay.jpg";
-import projImg2 from "../assets/img/threads.threads.webp";
+import projImg2 from "../assets/img/threads.webp";
 import projImg3 from "../assets/img/car.png";
 import projImg4 from "../assets/img/crypto.png";
 import projImg5 from "../assets/img/port.png";
